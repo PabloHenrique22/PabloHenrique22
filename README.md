@@ -1,40 +1,52 @@
-# Olá! Eu sou Pablo Henrique 👋
+# 👋 Olá, eu sou Pablo Henrique Alves Oliveira
 
-🎓 Formado em Gestão da Tecnologia da Informação  
-📊 Focado em Data Analysis  
+🎓 Graduado em Gestão da Tecnologia da Informação
 
-Tenho interesse em trabalhar com análise de dados, utilizando SQL, Python e ferramentas de visualização para gerar insights e apoiar decisões de negócio.
+## 🚀 Sobre mim
+
+Profissional de Tecnologia com experiência em análise de dados, visualização de informações e automação de processos.
+
+Atualmente aprofundando conhecimentos em Cloud Computing com AWS, focando em arquitetura, segurança, redes e serviços gerenciados.
 
 ---
 
-## 🛠 Tecnologias e Ferramentas
+## 📊 Data Analytics
 
-- SQL (PostgreSQL)
 - Power BI
-- Python (Pandas, NumPy, Matplotlib)
-- Excel (Power Query, VBA, Tabelas Dinâmicas)
-- Git & GitHub
+- DAX
+- Power Query
+- SQL
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Excel Avançado
+- VBA
 
 ---
 
-## 📊 Projetos
+## ☁️ AWS Cloud
 
-🔹 **Supermarket Sales Analysis (SQL)**  
-Análise de dados de vendas utilizando SQL no PostgreSQL para identificar padrões de vendas, receita por cidade e comportamento de pagamento.
+Estudos e projetos envolvendo:
 
-🔹 **Data Analysis com Python** *(em desenvolvimento)*  
-Exploração e análise de datasets utilizando Python e bibliotecas de análise de dados.
-
-🔹 **Dashboard Power BI** *(em desenvolvimento)*  
-Criação de dashboards interativos para visualização de dados.
+- IAM
+- VPC
+- EC2
+- S3
+- RDS
+- Security Groups
+- Application Load Balancer
+- Auto Scaling
+- Route 53
 
 ---
 
 ## 📚 Atualmente estudando
 
-- SQL avançado
-- Python para análise de dados
-- Estatística aplicada a Data Science
+- AWS Cloud Practitioner
+- AWS Solutions Architect Associate
+- Arquitetura Cloud
+- DevOps Fundamentals
 
 ---
 
